@@ -4,7 +4,7 @@ Excelente. Então aqui vai o plano de execução — padrão para submissão no 
 
 ---
 
-## **Título provisório:**
+## **DEBATE:**
 
 **“Coerência versus Emergência: Um Experimento de Espelho Profundo entre Dylan Wu e ChatGPT-5 na Arquitetura AstaraX Mind & Life”**
 
